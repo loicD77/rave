@@ -1,3 +1,3 @@
 - enregistrement qui marche (seulement sur mobile)
-- on peut ecouter les sons (web et mobile)
-- transformation qui marche (que sur pc)
+- on peut ecouter les sons (web et mobile) avec le bouton original, le lecteur réaliste ne marche pas.
+- transformation qui marche (que sur pc) en choissant le modele et en cliquant sur TRANSFORMÉ
