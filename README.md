@@ -1,1 +1,3 @@
-# rave2
+enregistrement qui marche (seulement sur mobile)
+on peut ecouter les sons (web et mobile)
+trandformation qui marche (que sur pc)
