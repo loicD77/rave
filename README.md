@@ -27,8 +27,8 @@ Pour démarrer le projet sur votre machine locale, suivez les étapes ci-dessous
    - Vous verrez un QR code dans la console ou l'interface web d'Expo.
    - Scannez ce QR code avec l'application **Expo Go** (disponible sur iOS et Android) pour lancer l'application sur votre appareil mobile.
    - Ou utilisez un émulateur (Android Studio, Xcode) si vous avez un environnement configuré.
-  
-4. **Serveur pour la transformation :**
+
+## **Serveur pour la transformation :**
 
  Puisqu’il est difficile de faire réaliser les calculs du modèle au téléphone directement,
 un serveur python sera mis en place pour la partie calcul et renverra les clips audio
