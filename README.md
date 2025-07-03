@@ -33,6 +33,7 @@ Pour démarrer le projet sur votre machine locale, suivez les étapes ci-dessous
  Puisqu’il est difficile de faire réaliser les calculs du modèle au téléphone directement,
 un serveur python sera mis en place pour la partie calcul et renverra les clips audio
 transformés. 
+**J'ai choisi de réimplémenter le serveur Flask pour mieux comprendre le fonctionnement de l'API et la communication client-serveur.** 
 
 
 ## **Etat actuel du projet**
