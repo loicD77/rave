@@ -1,5 +1,9 @@
 # Présentation du projet **RAVE**
 
+Le but de ce projet est de réaliser une application de transfert de timbre en
+ReactNative. Le transfert de timbre sera réalisé par un réseau de neurones, le modèle
+RAVE développé par Antoine Caillon à l’ircam. 
+
 
 ## **Comment Lancer le Projet ?**
 Pour démarrer le projet sur votre machine locale, suivez les étapes ci-dessous :
