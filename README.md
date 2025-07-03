@@ -34,8 +34,10 @@ Pour démarrer le projet sur votre machine locale, suivez les étapes ci-dessous
 un serveur python sera mis en place pour la partie calcul et renverra les clips audio
 transformés. 
 **J'ai choisi de réimplémenter le serveur Flask pour mieux comprendre le fonctionnement de l'API et la communication client-serveur.** 
+````
 const SERVER_IP   = "x"; // Changez avec votre IP locale
 const SERVER_PORT = "z"; // Changez avec votre port
+```
 
 
 ## **Etat actuel du projet**
