@@ -34,9 +34,12 @@ Pour démarrer le projet sur votre machine locale, suivez les étapes ci-dessous
 un serveur python sera mis en place pour la partie calcul et renverra les clips audio
 transformés. 
 **J'ai choisi de réimplémenter le serveur Flask pour mieux comprendre le fonctionnement de l'API et la communication client-serveur.** 
+const SERVER_IP   = "x"; // Changez avec votre IP locale
+const SERVER_PORT = "z"; // Changez avec votre port
 
 
 ## **Etat actuel du projet**
 - enregistrement qui marche (seulement sur mobile)
 - on peut ecouter les sons (web et mobile) avec le bouton original, le lecteur réaliste ne marche pas.
-- transformation qui marche (que sur pc) en choisIssant le modele et en cliquant sur TRANSFORMÉ
+- transformation qui marche (que sur pc) en choisIssant le modele et en cliquant sur TRANSFORMÉ ( Les modèles utilisent l'extension .ts par convention, 
+mais peuvent être .onnx selon l'implémentation.
