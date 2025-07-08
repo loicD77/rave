@@ -58,3 +58,10 @@ Le serveur marche avec anaconda prompt
 - enregistrement qui marche (seulement sur mobile)
 - on peut ecouter les sons (web et mobile) avec le bouton original, le lecteur réaliste ne marche pas sur web, en conséquence le bouton pause non plus ... Par contrer sur mobile le lecteur marche et le bouton pause aussi, on peut même choisir un instant t du son !
 - transformation qui marche (que sur pc avec les sons  **chiens et voix**, les autres ne fonctionnent pas) en choisIssant les assets locaux de l'application (présentés dans cette ordre : Piano, Voix, Chat, Chien et Darkbouka)  puis modele (**MODÈLE NEURAL** avec donc les sons Jazz, Parole, Darbouka, Chats et Chiens) et en cliquant sur **TRANSFORMÉ** pour obtenir le résultat ( Les modèles utilisent l'extension .ts par convention,  mais peuvent être .onnx selon l'implémentation.)
+
+## Conclusion
+
+J'ai trouvé ce projet complexe mais passionnant, même si il n'y a que deux transformations de sons qui fonctionnent cela m'a permis de comprendre la difficulté que ce type de projet représente.
+Les différences notables entre la partie web et mobile montrent que je dois encore progresser en React Native 
+
+  
