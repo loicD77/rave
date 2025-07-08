@@ -41,6 +41,18 @@ const SERVER_IP   = "x"; // Changez avec votre IP locale
 const SERVER_PORT = "z"; // Changez avec votre port
 ```
 
+## Serveur
+
+Le serveur marche avec anaconda prompt
+```
+
+(base) C:\Users\>cd "...\rave-main"
+
+(base) C:\Users>conda activate rave_env
+
+(rave_env) C:\Users\rave-main>python server.py
+
+```
 
 ## **Etat actuel du projet**
 - enregistrement qui marche (seulement sur mobile)
