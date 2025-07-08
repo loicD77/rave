@@ -43,5 +43,5 @@ const SERVER_PORT = "z"; // Changez avec votre port
 ## **Etat actuel du projet**
 - enregistrement qui marche (seulement sur mobile)
 - on peut ecouter les sons (web et mobile) avec le bouton original, le lecteur réaliste ne marche pas.
-- transformation qui marche (que sur pc avec les sons  **chiens et voix**, les autres ne fonctionnenet pas) en choisIssant les assets locaux de l'application puis modele et en cliquant sur TRANSFORMÉ ( Les modèles utilisent l'extension .ts par convention, 
+- transformation qui marche (que sur pc avec les sons  **chiens et voix**, les autres ne fonctionnent pas) en choisIssant les assets locaux de l'application puis modele et en cliquant sur TRANSFORMÉ ( Les modèles utilisent l'extension .ts par convention, 
 mais peuvent être .onnx selon l'implémentation.
