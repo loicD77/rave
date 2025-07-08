@@ -38,7 +38,7 @@ transformés.
 ### **RaveScreen.js**
 ```
 const SERVER_IP   = "x"; // Changez avec votre IP locale
-const SERVER_PORT = "z"; // Changez avec votre port
+const SERVER_PORT = "y"; // Changez avec votre port
 ```
 
 ## Serveur
