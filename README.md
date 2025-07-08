@@ -61,7 +61,7 @@ Le serveur marche avec anaconda prompt
 
 ## Conclusion
 
-J'ai trouvé ce projet complexe mais passionnant, même si il n'y a que deux transformations de sons qui fonctionnent cela m'a permis de comprendre la difficulté que ce type de projet représente.
-Les différences notables entre la partie web et mobile montrent que je dois encore progresser en React Native 
+- J'ai trouvé ce projet complexe mais passionnant, même si il n'y a que deux transformations de sons qui fonctionnent cela m'a permis de comprendre la difficulté que ce type de projet représente.
+- Les différences notables entre la partie web et mobile montrent que je dois encore progresser en React Native et aussi avec les serveurs !
 
   
